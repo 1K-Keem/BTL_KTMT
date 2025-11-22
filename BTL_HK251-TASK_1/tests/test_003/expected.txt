@@ -1,0 +1,2 @@
+Filtered output: 2.3 2.8
+MMSE: 0.07
